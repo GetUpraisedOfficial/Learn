@@ -103,6 +103,8 @@ This track will help you get started on Python which is one of the world's most 
 <p><a target='_blank' href="https://www.udemy.com/course/learn-python-and-become-job-ready-developer-using-pycharm/?referralCode=B0270F0B17B7BE76F2EC" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Python.png" alt="Image" title="Python for complete beginner"></a></p>
 <p><a target='_blank' href="https://www.udemy.com/course/master-pycharm-ide-become-a-productive-python-developer/?referralCode=9A2D5F2321680259342F" ><img src="https://getupraised.com/wp-content/uploads/2021/12/Pycharm.png" alt="Image" title="Master Pycharm IDE for Python"></a></p>
 <p><a target='_blank' href="https://www.udemy.com/course/object-oriented-programming-using-python-pycharm-hands-on/?referralCode=39DBACAA8E9FAD82A3C0" ><img src="https://getupraised.com/wp-content/uploads/2021/12/python-oops.png" alt="Image" title="Object oriented programming using Python"></a></p>
+<p><a target='_blank' href="https://www.udemy.com/course/python3-learn-django-by-building-real-world-web-apps/?referralCode=F05F835B2F7E86B078FE" ><img src="https://getupraised.com/wp-content/uploads/2022/01/Django.png" alt="Image" title="Django by build real world application"></a></p>
+
 
 
 ## 6. Getting python certified
@@ -191,3 +193,5 @@ This track will take you from a complete newbie in blockchain technology to the 
 <p><a target='_blank' href="https://www.udemy.com/course/a-complete-course-to-become-a-product-manager-and-get-a-job/?referralCode=E231E821B6C35C77DD82" ><img src="https://getupraised.com/wp-content/uploads/2021/12/product-mgmt.png" alt="Image" title="Product Management - A complete guide"></a></p>
 
 <p><a target='_blank' href="https://www.udemy.com/course/ethereum-and-solidity-become-a-blockchain-developer-today/?referralCode=F9CF2012D4EF901392E6" ><img src="https://getupraised.com/wp-content/uploads/2021/12/ethereum.png" alt="Image" title="Learn Solidity and build your own smart contracts"></a></p>
+
+<p><a target='_blank' href="https://www.udemy.com/course/python3-learn-django-by-building-real-world-web-apps/?referralCode=F05F835B2F7E86B078FE" ><img src="https://getupraised.com/wp-content/uploads/2022/01/Django.png" alt="Image" title="Django by build real world application"></a></p>
