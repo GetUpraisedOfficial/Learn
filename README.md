@@ -194,4 +194,4 @@ This track will take you from a complete newbie in blockchain technology to the 
 
 <p><a target='_blank' href="https://www.udemy.com/course/ethereum-and-solidity-become-a-blockchain-developer-today/?referralCode=F9CF2012D4EF901392E6" ><img src="https://getupraised.com/wp-content/uploads/2021/12/ethereum.png" alt="Image" title="Learn Solidity and build your own smart contracts"></a></p>
 
-<p><a target='_blank' href="https://www.udemy.com/course/python3-learn-django-by-building-real-world-web-apps/?referralCode=F05F835B2F7E86B078FE" ><img src="https://www.dropbox.com/s/lw847makjf1gnlm/Django.png?dl=0" alt="Image" title="Django by build real world application"></a></p>
+<p><a target='_blank' href="https://www.udemy.com/course/python3-learn-django-by-building-real-world-web-apps/?referralCode=F05F835B2F7E86B078FE" ><img src="https://www.dropbox.com/s/lw847makjf1gnlm/Django.png?raw=1" alt="Image" title="Django by build real world application"></a></p>
